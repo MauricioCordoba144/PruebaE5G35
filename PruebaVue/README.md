@@ -1,4 +1,4 @@
-# n
+# PetNet
 
 ## Project setup
 ```
